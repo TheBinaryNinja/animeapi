@@ -1,11 +1,3 @@
-<div align="center">
-
-![Static Badge](https://img.shields.io/badge/node.js-grey?logo=nodedotjs) ![GitHub stars](https://img.shields.io/github/stars/itzzzme/anime-api?logo=github)
-![GitHub forks](https://img.shields.io/github/forks/itzzzme/anime-api?logo=github)
-![Static Badge](https://img.shields.io/badge/version-1.0.0-blue)
-
-</div>
-
 ## <span>Disclaimer</span>
 
 1.  This `api` does not store any files , it only link to the media which is hosted on 3rd party services.
@@ -65,12 +57,12 @@ Make sure you have node installed on your device
 1. Run the following code to clone the repository and install all required dependencies
 
 ```bash
-$ git clone https://github.com/itzzzme/anime-api.git
+$ git clone https://github.com/TheBinaryNinja/animeapi.git.git
 $ cd anime-api
 $ npm install
 ```
 
-2. Refer the [.env.example](https://github.com/itzzzme/anime-api/blob/main/.env.example) file to setup `.env` file
+2. Refer the [.env.example](https://github.com/TheBinaryNinja/animeapi.git/blob/main/.env.example) file to setup `.env` file
 
 ```bash
 # Origins you want to allow
@@ -90,13 +82,13 @@ $ npm start #or npm run devStart
 
 Host your own instance of anime-api on vercel
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/itzzzme/anime-api)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/TheBinaryNinja/animeapi.git)
 
 ### Render
 
 Host your own instance of anime-api on Render.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/itzzzme/anime-api)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/TheBinaryNinja/animeapi.git)
 
 > # Documentation
 
