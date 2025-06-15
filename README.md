@@ -57,7 +57,7 @@ Make sure you have node installed on your device
 1. Run the following code to clone the repository and install all required dependencies
 
 ```bash
-$ git clone https://github.com/TheBinaryNinja/animeapi.git.git
+$ git clone https://github.com/TheBinaryNinja/animeapi.git
 $ cd anime-api
 $ npm install
 ```
